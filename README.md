@@ -35,7 +35,7 @@
 🔹 [Graduate Career Outcomes Dashboard](https://github.com/maillinhluong/graduate-career-outcomes-dashboard)      
 *Interactive Tableau dashboard tracking graduate employment stats*
 
-🔹 [PlaylistPro Customer Churn Prediction](https://www.kaggle.com/code/laelialuong/notebook47f6305f3c)  
+🔹 [PlaylistPro Customer Churn Prediction](https://github.com/maillinhluong/playlistpro-churn-prediction)  
 *Built classification model to predict customer churn for a music streaming platform — predicted 85% of non-churners and estimated 74% retention*
 
 ---
